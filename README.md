@@ -8,4 +8,4 @@ Took second place at the [2015 IEEE Region 1 Student Conference](http://sites.ie
 
 ## Demo
 
-![](https://github.com/mackorone/mms/blob/master/demo.gif)
+![](https://github.com/mackorone/mackalgo/blob/master/demo.gif)
