@@ -6,6 +6,4 @@ Developed and tested using [mackorone/mms](https://github.com/mackorone/mms), a 
 
 Took second place at the [2015 IEEE Region 1 Student Conference](http://sites.ieee.org/r1studentconference/about/micromouse/).
 
-## Demo
-
 ![](https://github.com/mackorone/mackalgo/blob/master/demo.gif)
