@@ -1,0 +1,6 @@
+- Be smarter about tile neighbors during BFS
+- Const correctness
+- Optimizations
+    - Kill unused imports
+    - Turn asserts off
+    - Share wall info between cells
